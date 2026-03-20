@@ -1,0 +1,42 @@
+body {font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 15px;
+color: #FFFFFF;}
+
+.floatright {float: right;}
+
+a {text-decoration: none;
+color: rgb(225, 213, 183);}
+
+
+.Header {
+top:5px;
+left:5px;
+right:5px;
+height:200px;
+border-bottom: solid 1px #534343;
+background-color: rgb(97, 97, 97);
+padding: 5px;}
+
+.Footer {
+bottom: 5px;
+left: 5px;
+right: 5px;
+height: 25px;
+font-size: 8px;
+color: white;
+text-align: center;
+position: fixed;
+background-color: rgb(97, 97, 97);
+border: solid 1px#534343;}
+
+.MainBody {
+top: 114px;
+left: 160px;
+right: 160px;
+bottom: 39px;
+border: solid 1px #534343;
+background-color: gray;
+padding: 5px;
+}
+
+.aligncenter {text-align: center;}
